@@ -52,4 +52,4 @@ MIT
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ethan2409/latex-to-word&type=Date)](https://star-history.com/#Ethan2409/latex-to-word&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TengleWang/latex-to-word&type=Date)](https://star-history.com/#Ethan2409/latex-to-word&Date)
